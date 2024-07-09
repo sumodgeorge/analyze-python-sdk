@@ -1,3 +1,4 @@
 requests>=2.22.0,<3
 responses==0.16.0
 pytest==6.2.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
